@@ -85,7 +85,7 @@ Também sou fundadora da **QA Insider** — newsletter com 5.000+ assinantes sob
 > QA Lead Sênior · Arquiteta de Estratégia de Qualidade
 > -91% regressão · +75% Time-to-Market · 260k usuários · zero downtime
 
-**`2009 → 2022`** — Geosite *(Projetos: Oi, V.TAL, SSP-MG)*
+**`2009 → 2022`** — Geosite/Digicade Tecnologia *(Projetos: Oi, V.TAL, SSP-MG)*
 > QA Lead Sênior · Especialista em Test Automation
 > 13 anos · telecom · segurança pública · -40% custo suporte
 
