@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-> "QA não é sobre encontrar bugs.
+> QA não é sobre encontrar bugs.
 > É sobre garantir que o produto certo
 > chegue às pessoas certas — sem falhar."
 ```
